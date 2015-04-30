@@ -1,0 +1,133 @@
+ros-jade-rqt-robot-monitor (0.4.1-0trusty) trusty; urgency=high
+
+  * fix installing missing bag_plugin xml (#288 <https://github.com/ros-visualization/rqt_common_plugins/issues/288>)
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 30 Apr 2015 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.4.0-0trusty) trusty; urgency=high
+
+  * rewrite rqt_robot_monitor (#3 <https://github.com/ros-visualization/rqt_robot_plugins/issues/3>, #9 <https://github.com/ros-visualization/rqt_robot_plugins/issues/9>, #32 <https://github.com/ros-visualization/rqt_robot_plugins/issues/32>, #33 <https://github.com/ros-visualization/rqt_robot_plugins/issues/33>, #71 <https://github.com/ros-visualization/rqt_robot_plugins/issues/71>)
+  * make diagnostics_agg a relative topic (#32 <https://github.com/ros-visualization/rqt_robot_plugins/issues/32>)
+  * add rqt_bag plugin
+  * update script to use full plugin name
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 05 Nov 2014 08:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.3.7-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Mon, 18 Aug 2014 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.3.6-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Fri, 11 Jul 2014 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.3.5-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Mon, 02 Jun 2014 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.3.4-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 07 May 2014 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.3.3-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Tue, 28 Jan 2014 08:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.3.2-0trusty) trusty; urgency=high
+
+  * add groups for rqt plugins (ros-visualization/rqt_common_plugins#167 <https://github.com/ros-visualization/rqt_common_plugins/issues/167>)
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 08 Jan 2014 08:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.3.1-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 09 Oct 2013 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.3.0-0trusty) trusty; urgency=high
+
+  * fix indication when not receiving deagnostic data (#35 <https://github.com/ros-visualization/rqt_robot_plugins/issues/35>)
+  * fix scrolling of inspection window on new data (#34 <https://github.com/ros-visualization/rqt_robot_plugins/issues/34>)
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 28 Aug 2013 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.2.16-0trusty) trusty; urgency=high
+
+  * First public release into Hydro
+
+ -- Austin Hendrix <namniart@gmail.com>  Tue, 09 Jul 2013 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.2.15-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 25 Apr 2013 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.2.14-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Fri, 12 Apr 2013 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.2.13-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Tue, 09 Apr 2013 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.2.12-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Sun, 07 Apr 2013 01:22:00 -0000
+
+ros-jade-rqt-robot-monitor (0.2.11-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Sun, 07 Apr 2013 01:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.2.10-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 04 Apr 2013 07:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.2.9-0trusty) trusty; urgency=high
+
+  * Fix
+    
+      * now run with pyside (it used to be not working with it w/o having been noticed).
+      * Call .ui file in .ui is now successfully working
+    
+  * Refactoring
+    
+      * Now TimelinePane uses .ui file
+    
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 07 Mar 2013 08:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.2.8-0trusty) trusty; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Fri, 11 Jan 2013 08:00:00 -0000
+
+ros-jade-rqt-robot-monitor (0.2.7-0trusty) trusty; urgency=high
+
+  * first public release into Groovy
+
+ -- Austin Hendrix <namniart@gmail.com>  Sun, 23 Dec 2012 23:58:00 -0000
+
+
