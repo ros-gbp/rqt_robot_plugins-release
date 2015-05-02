@@ -2,6 +2,10 @@
 Changelog for package rqt_moveit
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.1 (2015-04-30)
+------------------
+* marking plugin as experimental for now
+
 0.4.0 (2014-11-05)
 ------------------
 * update script to use full plugin name
