@@ -1,0 +1,12 @@
+Source: ros-jade-rqt-moveit
+Section: misc
+Priority: extra
+Maintainer: Aaron Blasdel <ablasdel@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: http://ros.org/wiki/rqt_moveit
+Standards-Version: 3.9.2
+
+Package: ros-jade-rqt-moveit
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-rosnode, ros-jade-rospy, ros-jade-rostopic, ros-jade-rqt-gui, ros-jade-rqt-gui-py, ros-jade-rqt-py-common, ros-jade-rqt-topic, ros-jade-sensor-msgs
+Description: An rqt-based tool that assists monitoring tasks for MoveIt! motion planner developers and users. Currently the following items are monitored if they are either running, existing or published: Node: /move_group Parameter: [/robot_description, /robot_description_semantic] Topic: Following types are monitored. Published &quot;names&quot; are ignored. [sensor_msgs/PointCloud, sensor_msgs/PointCloud2, sensor_msgs/Image, sensor_msgs/CameraInfo] Since this package is not made by the MoveIt! development team (although with assistance from the them), please post issue reports to the designated tracker (not MoveIt!'s main tracker).
