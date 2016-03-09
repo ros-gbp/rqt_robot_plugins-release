@@ -1,3 +1,36 @@
+## rqt_robot_plugins (indigo) - 0.4.3-0
+
+The packages in the `rqt_robot_plugins` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rqt_robot_plugins --track indigo --rosdistro indigo` on `Wed, 09 Mar 2016 01:45:01 -0000`
+
+These packages were released:
+- `rqt_moveit`
+- `rqt_nav_view`
+- `rqt_pose_view`
+- `rqt_robot_dashboard`
+- `rqt_robot_monitor`
+- `rqt_robot_plugins`
+- `rqt_robot_steering`
+- `rqt_runtime_monitor`
+- `rqt_rviz`
+- `rqt_tf_tree`
+
+Version of package(s) in repository `rqt_robot_plugins`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_robot_plugins.git
+- release repository: https://github.com/ros-gbp/rqt_robot_plugins-release.git
+- rosdistro version: `0.4.2-0`
+- old version: `0.4.2-0`
+- new version: `0.4.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.38`
+
+
 ## rqt_robot_plugins (jade) - 0.4.2-0
 
 The packages in the `rqt_robot_plugins` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade rqt_robot_plugins --edit` on `Fri, 24 Jul 2015 20:38:34 -0000`
