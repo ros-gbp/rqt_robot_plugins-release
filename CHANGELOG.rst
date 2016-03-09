@@ -2,6 +2,11 @@
 Changelog for package rqt_tf_tree
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.3 (2016-03-08)
+------------------
+* use proper icon for images
+* Contributors: Vincent Rabaud
+
 0.4.2 (2015-07-24)
 ------------------
 
