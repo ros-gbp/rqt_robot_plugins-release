@@ -2,6 +2,13 @@
 Changelog for package rqt_robot_monitor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.1 (2016-04-28)
+------------------
+
+0.5.0 (2016-04-27)
+------------------
+* Support Qt 5 (in Kinetic and higher) as well as Qt 4 (in Jade and earlier) (`#101 <https://github.com/ros-visualization/rqt_robot_plugins/pull/101>`_)
+
 0.4.3 (2016-03-08)
 ------------------
 

@@ -2,10 +2,15 @@
 Changelog for package rqt_rviz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.1 (2016-04-28)
+------------------
+
+0.5.0 (2016-04-27)
+------------------
+
 0.4.3 (2016-03-08)
 ------------------
 * disable ogre-log by default, add command line option to enable it (fix `#95 <https://github.com/ros-visualization/rqt_robot_plugins/issues/95>`_)
-* Contributors: Dirk Thomas
 
 0.4.2 (2015-07-24)
 ------------------
