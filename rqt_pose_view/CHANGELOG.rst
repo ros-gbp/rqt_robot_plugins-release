@@ -2,6 +2,9 @@
 Changelog for package rqt_pose_view
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.2 (2016-04-29)
+------------------
+
 0.5.1 (2016-04-28)
 ------------------
 * use new gl_dependency to allow using the same code base for Qt 4 as well as Qt 5
