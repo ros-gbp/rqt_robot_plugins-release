@@ -1,0 +1,12 @@
+Source: ros-kinetic-rqt-runtime-monitor
+Section: misc
+Priority: extra
+Maintainer: Aaron Blasdel <ablasdel@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://ros.org/wiki/rqt_runtime_monitor
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-rqt-runtime-monitor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-rospkg, ros-kinetic-diagnostic-msgs, ros-kinetic-python-qt-binding (>= 0.2.19), ros-kinetic-qt-gui, ros-kinetic-rospy, ros-kinetic-rqt-gui, ros-kinetic-rqt-gui-py
+Description: rqt_runtime_monitor provides a GUI plugin viewing DiagnosticsArray messages.
