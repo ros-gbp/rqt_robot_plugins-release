@@ -1,3 +1,36 @@
+## rqt_robot_plugins (kinetic) - 0.5.4-0
+
+The packages in the `rqt_robot_plugins` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rqt_robot_plugins` on `Mon, 19 Sep 2016 17:15:50 -0000`
+
+These packages were released:
+- `rqt_moveit`
+- `rqt_nav_view`
+- `rqt_pose_view`
+- `rqt_robot_dashboard`
+- `rqt_robot_monitor`
+- `rqt_robot_plugins`
+- `rqt_robot_steering`
+- `rqt_runtime_monitor`
+- `rqt_rviz`
+- `rqt_tf_tree`
+
+Version of package(s) in repository `rqt_robot_plugins`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_robot_plugins.git
+- release repository: https://github.com/ros-gbp/rqt_robot_plugins-release.git
+- rosdistro version: `0.5.3-0`
+- old version: `0.5.3-0`
+- new version: `0.5.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.39`
+
+
 ## rqt_robot_plugins (kinetic) - 0.5.3-0
 
 The packages in the `rqt_robot_plugins` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rqt_robot_plugins` on `Mon, 16 May 2016 20:21:24 -0000`
