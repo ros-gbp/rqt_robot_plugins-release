@@ -2,6 +2,9 @@
 Changelog for package rqt_rviz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.5 (2016-11-02)
+------------------
+
 0.5.4 (2016-09-19)
 ------------------
 * mark rviz plugin as experimental since it has severe issues for while
