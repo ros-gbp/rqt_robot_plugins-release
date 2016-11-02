@@ -2,10 +2,29 @@
 Changelog for package rqt_rviz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.5 (2016-11-02)
+------------------
+
+0.5.4 (2016-09-19)
+------------------
+* mark rviz plugin as experimental since it has severe issues for while
+
+0.5.3 (2016-05-16)
+------------------
+
+0.5.2 (2016-04-29)
+------------------
+* fix using Qt 5 when rqt uses it
+
+0.5.1 (2016-04-28)
+------------------
+
+0.5.0 (2016-04-27)
+------------------
+
 0.4.3 (2016-03-08)
 ------------------
 * disable ogre-log by default, add command line option to enable it (fix `#95 <https://github.com/ros-visualization/rqt_robot_plugins/issues/95>`_)
-* Contributors: Dirk Thomas
 
 0.4.2 (2015-07-24)
 ------------------
