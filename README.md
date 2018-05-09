@@ -1,3 +1,26 @@
+## rqt_robot_plugins (melodic) - 0.5.7-0
+
+The packages in the `rqt_robot_plugins` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rqt_robot_plugins --track melodic --rosdistro melodic` on `Wed, 09 May 2018 19:51:58 -0000`
+
+The `rqt_robot_plugins` package was released.
+
+Version of package(s) in repository `rqt_robot_plugins`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_robot_plugins.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.7-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## rqt_robot_plugins (indigo) - 0.5.7-0
 
 The packages in the `rqt_robot_plugins` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo rqt_robot_plugins` on `Fri, 28 Apr 2017 22:49:38 -0000`
