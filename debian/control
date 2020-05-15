@@ -1,0 +1,13 @@
+Source: ros-noetic-rqt-robot-plugins
+Section: misc
+Priority: optional
+Maintainer: Aaron Blasdel <ablasdel@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://ros.org/wiki/rqt_robot_plugins
+Standards-Version: 3.9.2
+
+Package: ros-noetic-rqt-robot-plugins
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-rqt-moveit, ros-noetic-rqt-nav-view, ros-noetic-rqt-pose-view, ros-noetic-rqt-robot-dashboard, ros-noetic-rqt-robot-monitor, ros-noetic-rqt-robot-steering, ros-noetic-rqt-runtime-monitor, ros-noetic-rqt-rviz, ros-noetic-rqt-tf-tree
+Description: Metapackage of rqt plugins that are particularly used with robots during its operation.
+ To run any rqt plugins, just type in a single command &quot;rqt&quot;, then select any plugins you want from the GUI that launches afterwards. rqt consists of three following metapackages: rqt - provides a container window where all rqt tools can be docked at. rqt plugin developers barely needs to pay attention. rqt_common_plugins - ROS backend tools suite that can be used on/off of robot runtime. rqt_robot_plugins (You're here!)
